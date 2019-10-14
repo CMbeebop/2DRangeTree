@@ -11,3 +11,8 @@ OVERVIEW: The Data structure (DS) is designed for solving the problem of given a
 Further descriptions can be found in the corresponding units.
 
 CONTENTS: RangeTree2DForm_u.pas, RangeTree2DForm_u.dfm, RangeTree2D_u.pas, QuarterRangeSearch_u.pas
+
+------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+ADDITIONAL CONTENT: Delphi implementation of generic 1D range search tree -> (see TRangeTree1D<TKey> in RangeTree1D_u.pas).
